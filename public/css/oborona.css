@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+.oborona {
+    background-color: black;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;
+}
+
+.ooo {
+    font-size: larger;
+    color: orange;
+}
+
+.oborona_defined {
+    font-size: xx-large;
+    color: red;
+}
